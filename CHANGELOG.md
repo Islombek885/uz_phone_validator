@@ -1,7 +1,6 @@
-# O‘zgarishlar ro‘yxati
+## 2.0.0
 
-## 0.0.1
-
-- ✅ Dastlabki versiya chiqarildi
-- ✅ `isValidUzPhone` funksiyasi qo‘shildi
-- ✅ Namuna kodi (example) qo‘shildi
+- 🔁 Kod tozalandi
+- ✅ `Calculator` klassi olib tashlandi
+- ✅ Test fayllar yangilandi
+- ✅ Minor va major xatolar tuzatildi
